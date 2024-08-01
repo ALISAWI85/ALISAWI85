@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALISAWI85
+- 👋 Hi,
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently doing my PhD
 
